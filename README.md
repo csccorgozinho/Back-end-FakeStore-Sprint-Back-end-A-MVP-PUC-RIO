@@ -28,10 +28,9 @@ docker-compose.yml # Orquestração
 
 ⚙️ Instalação e Execução para Teste Local
 
-  1.Clone o repositório:
+  1.Clone o repositório(ou baixe do linkhttps://github.com/csccorgozinho/Back-end-FakeStore-Sprint-Back-end-A-MVP-PUC-RIO):
 
-    git clone https://github.com/csccorgozinho/front-end-FakeStore-Sprint-Back-end-A-MVP-PUC-RIO.git
-
+    git clone https://github.com/csccorgozinho/Back-end-FakeStore-Sprint-Back-end-A-MVP-PUC-RIO.git
     cd FakeStore-Backend
 
   1.Instale Dependências:
