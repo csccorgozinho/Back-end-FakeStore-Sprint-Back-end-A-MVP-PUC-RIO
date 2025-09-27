@@ -27,6 +27,13 @@ FakeStore-Backend/ # FastAPI + requirements.txt + Dockerfile
 docker-compose.yml # Orquestração
 
 ⚙️ Instalação e Execução para Teste Local
+
+  1.Clone o repositório:
+
+    git clone https://github.com/csccorgozinho/front-end-FakeStore-Sprint-Back-end-A-MVP-PUC-RIO.git
+
+    cd FakeStore-Backend
+
   1.Instale Dependências:
     
     cd FakeStore-Backend # Vá para pasta backend
