@@ -11,7 +11,7 @@ Back-end: API FastAPI (Python) com persistência em SQLite. Integração:
 Este repositório contém o backend do projeto FakeStore, responsável por fornecer a API REST para o frontend e gerenciar a lógica de negócio.
 
 fluxograma
-<img width="1536" height="1024" alt="Fluxograma-mvp" src="https://github.com/user-attachments/assets/c36ad859-7ed0-41dc-bb92-06a1ffea34bf" />
+<img width="3840" height="1067" alt="Untitled diagram _ Mermaid Chart-2025-09-27-201920" src="https://github.com/user-attachments/assets/84501d5f-a591-4f66-8cd6-0c7b0774a4fb" />
 
 
 📌Extrutura esperada
