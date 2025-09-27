@@ -48,7 +48,6 @@ docker-compose.yml # Orquestração
   3.Teste o Back-End:
 
     entre em http://localhost:8000/docs (Swagger) para tester as funcionalidas do back-end
-    Instalação e Execução com Docker
 
 ⚙️Instalação e Execução com Docker
 
