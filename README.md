@@ -18,8 +18,6 @@ fluxograma
 
 projeto-mvp/
 
-backend/# Database
-
 FakeStore-Frontend/# React app + Dockerfile + nginx.conf + .dockerignore
 
 FakeStore-Backend/ # FastAPI + requirements.txt + Dockerfile
