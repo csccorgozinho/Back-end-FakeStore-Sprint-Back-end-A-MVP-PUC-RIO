@@ -34,12 +34,12 @@ docker-compose.yml # Orquestração
   1.Instale Dependências:
     
     cd FakeStore-Backend # Vá para pasta backend
+    pip install --upgrade pip
+    pip install -r requirements.txt  # Instala FastAPI, Uvicorn, SQLAlchemy, Pydantic (~1-2 min)
     python -m venv venv  
     # Ative venv:
     # Windows: venv\Scripts\activate
     # macOS/Linux: source venv/bin/activate
-    pip install --upgrade pip
-    pip install -r requirements.txt  # Instala FastAPI, Uvicorn, SQLAlchemy, Pydantic (~1-2 min)
     
   2.Inicie o Servidor:
   
